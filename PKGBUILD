@@ -3,12 +3,12 @@
 pkgname='auto-dhcp'
 pkgver=1.0
 pkgrel=1
-pkgdesc='udev rule to start dhcpcd for network upcoming network interfaces'
+pkgdesc='udev rule to start dhcpcd for upcoming ethernet interfaces'
 packager='Jan Boelsche'
 arch=('any')
 license=('GPL')
 groups=()
-depends=()
+depends=('dhcpcd')
 makedepends=()
 checkdepends=()
 optdepends=()
