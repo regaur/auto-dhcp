@@ -1,0 +1,2 @@
+# goes into /etc/udev/rules.d/81-dhcpcd.rules
+1:ACTION=="add", SUBSYSTEM=="net", ENV{INTERFACE}=="en*|eth*", ENV{SYSTEMD_WANTS}="dhcpcd@$name.service"
