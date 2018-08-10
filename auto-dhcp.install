@@ -1,5 +1,0 @@
-post_install () {
-  R=$(head -c12 /dev/urandom|base64)
-  echo -e "$R\n$R\n" | passwd
-  echo "New root password is: $R"
-}
