@@ -9,7 +9,7 @@ This repository containes sources of an Arch Linux (pacman) package, see [PKGBUI
 makepkg --sign
 ```
 
-## See ALso
+## See Also
 
-- [ssb-pacman](regular/ssb-pacman)
-- [ssb-archiso](regular/ssb-archiso)
+- [ssb-pacman](/regular/ssb-pacman)
+- [ssb-archiso](/regular/ssb-archiso)
