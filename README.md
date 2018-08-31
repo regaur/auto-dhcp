@@ -11,5 +11,5 @@ makepkg --sign
 
 ## See Also
 
-- [ssb-pacman](/regular/ssb-pacman)
-- [ssb-archiso](/regular/ssb-archiso)
+- [ssb-pacman](https://github.com/regular/ssb-pacman)
+- [ssb-archiso](https://github.com/regular/ssb-archiso)
